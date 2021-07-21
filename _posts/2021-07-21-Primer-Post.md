@@ -3,7 +3,7 @@ layout: post
 title: Sistemas distribuidos
 subtitle: Projectos de aplicacion distribuidas de la asignatura INF-343
 gh-repo: daattali/beautiful-jekyll
-tags: [golang, socket,  gRPC, RabbitMQ]
+tags: [Golang, socket,  gRPC, RabbitMQ]
 comments: true
 ---
 
