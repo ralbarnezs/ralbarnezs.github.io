@@ -24,7 +24,10 @@ Como solución a esta problemática surge Sians. La idea es proveer una aplicaci
 
 En conclusión, el estudiante podrá recibir material educativo de parte de su profesor sin necesidad de contar con una conexión a internet; los únicos requisitos una vez instalada la aplicación móvil son disponer de un celular con cobertura a una red de telefonía móvil.
 
-Esta idea fue postulada a la asignatura de gestión de proyectos la cual es parte de Feria de Software la cual busca desarrollar un producto funcional a través de un año académico. Actualmente junto a otros tres integrantes a los cuales convencí de ser parte del proyecto, nos encontramos en la fase de demostración del PMV. En el repositorio dispuesto a continuación se encuentra totalmente funcional todo lo desarrollado para la parte web (de la cual me encargue), que es lo que requirió resolver más tareas con el fin de realizar el PMV. Por motivo de que mis compañeros hicieron lo referente a la aplicación móvil no subo el código de esta por ahora, quedando la tarea de desarrollarla por mí mismo en Ionic y subirla dentro de los próximos dos meses. 
+Esta idea fue postulada a la asignatura de gestión de proyectos la cual es parte de Feria de Software que busca desarrollar un producto funcional a través de un año académico. Esto con el fin de potenciar la idea (con el feedback obtenido mediante los profesores) y acceder a fondos. 
+
+Actualmente junto a otros tres integrantes a los cuales convencí de ser parte del proyecto, nos encontramos en la fase de demostración del PMV. En el repositorio dispuesto a continuación se encuentra totalmente funcional todo lo desarrollado para la parte web (de la cual me encargue), que es lo que requirió resolver más tareas con el fin de realizar el PMV. Por motivo de que mis compañeros hicieron lo referente a la aplicación móvil no subo el código de esta por ahora, quedando la tarea de desarrollarla por mí mismo en Ionic y subirla dentro de los próximos dos meses.
+
 
 Como comentario final, debido a que este PMV fue desarrollado parcialmente durante tres semanas, no se dio lugar a estructurar de buena forma el código ni separar por microservicios, dos tareas prioritarias apenas termine el actual semestre académico. 
 
