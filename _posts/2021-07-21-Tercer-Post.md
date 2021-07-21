@@ -11,7 +11,7 @@ comments: false
 
 En Chile, casi uno de cada tres colegios no tiene conexión a internet. Son, en total, 2.680 recintos, el 47% rurales, donde las clases online o híbridas, por motivo de pandemia, se han vuelto una misión imposible. Es por esto que los mismos estudiantes y profesores han tenido que realizar un mayor esfuerzo por mantenerse comunicados, teniendo que realizar acciones como subir cerros o techumbres con el fin de lograr una conexión a internet, poniendo en riesgo su propia integridad.
 
-### solución propuesta
+### Solución propuesta
 
 Como solución a esta problemática surge Sians. La idea es proveer una aplicación móvil para el estudiante y web para el profesor. Los pasos que sigue el proceso son los siguientes:
 
