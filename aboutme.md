@@ -4,7 +4,7 @@ title: About me
 subtitle: Star Wars o Star Trek ?
 ---
 
-Mi nombre es Rolando Albarnez Sepúlveda. Amo a mi gato y cada que puedo estoy dedicándole unos minutos. Entre mis gustos musicales se encuentra David Bowie. Amo el misticismo que rodea a cada uno de sus alter egos. Me gusta lo que propone Agnes Obel con sus tintes de neoclásico y los melódicos de sus canciones. Por lo demás soy de gustos variados y entre mis listas de reproducción hay variedad de estilos (salvo reguetón).
+Soy Rolando Albarnez Sepúlveda. Amo a mi gato y cada que puedo estoy dedicándole unos minutos. Entre mis gustos musicales se encuentra David Bowie. Amo el misticismo que rodea a cada uno de sus alter egos. Me gusta lo que propone Agnes Obel con sus tintes de neoclásico y los melódicos de sus canciones. Por lo demás soy de gustos variados y entre mis listas de reproducción hay variedad de estilos (salvo reguetón).
 
 ### Mas formalmente
 
