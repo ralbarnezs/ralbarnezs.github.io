@@ -7,7 +7,7 @@ tags: [Golang, socket,  gRPC, RabbitMQ]
 comments: true
 ---
 
-### Primer proyecto
+### Primer proyecto INF-343
 
 El objetivo de este proyecto fue aplicar de forma practica los contenidos en la primera parte del curso de sistemas distribuidos. Para esto se llevo a cabo una aplicación que buscaba emular un sistema distribuido de paquetería. Este sistema podría verse como un Chile Express donde hay diferentes secciones. Entre las principales se encuentran:
 
