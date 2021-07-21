@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tienda online
-subtitle: Proyecto de tienda online para la asignatura INF322
+subtitle: Proyecto de tienda online para la asignatura INF-322
 gh-repo: daattali/beautiful-jekyll
 tags: [React, Javascript, kor-ui,  material-ui]
 comments: true
@@ -24,7 +24,7 @@ A continuación se listan los componentes que son parte de los web components ut
 - Iconos: se utiliza iconos para representar algunas tareas.
 - Mensajes: se le notifica al usuario el nivel de éxito logrado en las vistas que lo amerite.
 
-Todo lo desarrollado respecto de la interfaz, es realizado en la librería reactjs utilizando kor-ui y en menor medida material-ui.
+Todo lo desarrollado respecto de la interfaz, es realizado con reactjs utilizando kor-ui y en menor medida material-ui.
 
 {: .box-note}
 **Repositorio:** [tienda online](https://github.com/ralbarnezs/Prototipo-Proyecto-INF322).
